@@ -1,2 +1,4 @@
-# intro-to-github
-My first GitHub repository for PLTW computer science.
+# My First GitHub Repository
+**Name**: Alexa Reed
+**Class**: PLTW Computer science
+**Date**: 8/22/2025
